@@ -15,6 +15,7 @@ h1 {
   margin-right: 10px;
   margin-bottom: 20px;
   display: inline-block;
+  text-align: justify;
 }
 
 li {
@@ -40,8 +41,8 @@ h2 {
 .profile-image-round {
   object-fit: cover;
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 @keyframes animated_div {
